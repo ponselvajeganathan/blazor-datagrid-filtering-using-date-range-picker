@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to integrate a Date Range Picker into the Syncfusion Blazor DataGrid filter menu and use the selected range to filter date values. Instead of filtering by a single date, users can choose a start date and end date and apply filtering using a between-style operation. This approach provides a more intuitive filtering experience for scenarios where records must be filtered within a specific date period.
+This sample demonstrates how to integrate a [DateRangePicker](https://www.syncfusion.com/blazor-components/blazor-daterangepicker) into the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) filter menu and use the selected range to filter date values. Instead of filtering by a single date, users can choose a start date and end date and apply filtering using a between-style operation. This approach provides a more intuitive filtering experience for scenarios where records must be filtered within a specific date period.
 
 ## Key Features
 
